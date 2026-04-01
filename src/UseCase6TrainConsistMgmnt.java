@@ -7,7 +7,7 @@ public class UseCase6TrainConsistMgmnt {
 
         System.out.println("=== Train Consist Management App ===");
 
-        // Initialize HashMap for bogie-capacity mapping
+        // Initialize HashMap for bogie-capacity mappingmapping
         Map<String, Integer> bogieCapacityMap = new HashMap<>();
 
         // UC6 flow
